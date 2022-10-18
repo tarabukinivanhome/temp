@@ -1,2 +1,2 @@
 vanya
-Hello wirld!
+Hello world!
